@@ -25,7 +25,7 @@
 	2)通过Javac生成”.class”文件
 	3)通过Java命令执行.class文件
 
-！[java编译执行过程](http://static.runoob.com/images/runoob-logo.png "java编译执行过程")
+！[java编译执行过程](https://github.com/zhyzhy5/BigData/blob/master/java/java%E5%9F%BA%E7%A1%80/images/java%E7%BC%96%E8%AF%91%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.jpg "java编译执行过程")
 
 
 ## 二.关键字及标识符的特点
@@ -58,7 +58,7 @@ final Student s = newStudent();//地址值不能变了，不能再new了
 	所有数据的运算都是采用补码进行的。
 	
 ## 四.数据类型分类及转换
-![数据类型分类及转换](http://static.runoob.com/images/runoob-logo.png "数据类型分类及转换")
+![数据类型分类及转换](https://github.com/zhyzhy5/BigData/blob/master/java/java%E5%9F%BA%E7%A1%80/images/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%88%86%E7%B1%BB%E5%8F%8A%E8%BD%AC%E6%8D%A2.jpg "数据类型分类及转换")
 
 | 基本数据类型 | Byte | Short | Int | Long | Boolean | Char | Float | Double |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
