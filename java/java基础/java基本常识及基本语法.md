@@ -25,7 +25,7 @@
 	2)通过Javac生成”.class”文件
 	3)通过Java命令执行.class文件
 
-！[java编译执行过程](https://github.com/zhyzhy5/BigData/blob/master/java/java%E5%9F%BA%E7%A1%80/images/java%E7%BC%96%E8%AF%91%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.jpg "java编译执行过程")
+![java编译执行过程](https://github.com/zhyzhy5/BigData/blob/master/java/java%E5%9F%BA%E7%A1%80/images/java%E7%BC%96%E8%AF%91%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B.jpg "java编译执行过程")
 
 
 ## 二.关键字及标识符的特点
